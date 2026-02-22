@@ -1,0 +1,11 @@
+{
+  "db_path": "data/hybrid_search.db",
+  "ollama_url": "http://localhost:11434",
+  "model": "nomic-embed-text",
+  "chunk_size": 512,
+  "chunk_overlap": 50,
+  "keyword_weight": 0.3,
+  "vector_weight": 0.7,
+  "cache_size": 256,
+  "dims": 768
+}
